@@ -1,0 +1,14 @@
+{
+  "name": "readem",
+  "version": "1.0.0",
+  "description": "An app where you can share your personal work with the world. Create an account and start to write your book.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexandru Chirea",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
